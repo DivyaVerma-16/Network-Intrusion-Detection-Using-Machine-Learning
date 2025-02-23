@@ -7,7 +7,6 @@ The KDD Cup 1999 dataset consists of network traffic instances labeled as either
 •  Model Training & Evaluation:
 •	Implement and train multiple classification models to detect network intrusions:<br/>
 <br/>
-<n/>
 o	Random Forest Classifier
 o	K-Nearest Neighbors (KNN)
 o	Logistic Regression
