@@ -1,4 +1,4 @@
-# Network Intrusion Detection Using Machine Learning 
+## Network Intrusion Detection Using Machine Learning 
 
 This project focuses on analyzing network intrusion detection data using machine learning techniques. The dataset used comes from the **KDD Cup 1999** competition, which contains network traffic data labeled as **normal** or **attack** instances.  
 
