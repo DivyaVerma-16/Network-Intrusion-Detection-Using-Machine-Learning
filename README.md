@@ -5,7 +5,7 @@ The KDD Cup 1999 dataset consists of network traffic instances labeled as either
 •	Identifying important features that contribute to intrusion detection.
 •	Comparing the effectiveness of multiple machine learning models in classifying network traffic patterns.
 •  Model Training & Evaluation:
-•	Implement and train multiple classification models to detect network intrusions:
+•	Implement and train multiple classification models to detect network intrusions:/n
 o	Random Forest Classifier
 o	K-Nearest Neighbors (KNN)
 o	Logistic Regression
