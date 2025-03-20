@@ -50,4 +50,4 @@ The challenge lies in accurately classifying these instances using machine learn
 
 ---
 
-This project provides valuable insights into **machine learning applications for cybersecurity**, helping enhance the detection of malicious activities in network traffic. 🚀  
+This project provides valuable insights into **machine learning applications for cybersecurity**, helping enhance the detection of malicious activities in network traffic.
